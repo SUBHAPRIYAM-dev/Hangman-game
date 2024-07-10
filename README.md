@@ -17,3 +17,7 @@ Hangman is a classic word-guessing game where players attempt to guess all the l
 - **AngularJS**
 - **Font Awesome**
 
+ ### For Live Demo
+ https://subhapriyam-dev.github.io/Hangman-game/
+
+
